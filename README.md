@@ -13,10 +13,28 @@ This **DES Algorithm Implementation** is a Python-based cryptographic tool, desi
 
 ## GUI-Preview
 ****
+###### GUI preview
+<p align="center">
+<img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(315).png" alt="Course Page" height="auto" width="500" />
+</p>
 ###### En/Decrypt bin '0b' messages
 <p align="center">
 <img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(316).png" alt="Course Page" height="auto" width="500" />
 <img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(317).png" alt="Course Page" height="auto" width="500" />
+</p>
+###### En/Decrypt hex '0x' messages
+<p align="center">
+<img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(320).png" alt="Course Page" height="auto" width="500" />
+<img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(321).png" alt="Course Page" height="auto" width="500" />
+</p>
+###### En/Decrypt text 'latin-1' messages
+<p align="center">
+<img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(318).png" alt="Course Page" height="auto" width="500" />
+<img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(319).png" alt="Course Page" height="auto" width="500" />
+</p>
+###### Error dialog box/ notify any error
+<p align="center">
+<img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(322).png" alt="Course Page" height="auto" width="500" />
 </p>
 
 ## Installation
