@@ -13,6 +13,5 @@ This **DES Algorithm Implementation** is a Python-based cryptographic tool, desi
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt
+git clone https://github.com/bemnet16/Python-DES-Project
+cd Python-DES-Project
