@@ -20,25 +20,25 @@ This **DES Algorithm Implementation** is a Python-based cryptographic tool, desi
 
 ###### En/Decrypt bin '0b' messages
 <p align="center">
-<img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(323).png" alt="encrypt message" height="auto" width="500" />
-<img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(324).png" alt="decrypt message" height="auto" width="500" />
+<img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(324).png" alt="encrypt message" height="auto" width="500" />
+<img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(325).png" alt="decrypt message" height="auto" width="500" />
 </p>
 
 ###### En/Decrypt hex '0x' messages
 <p align="center">
-<img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(325).png" alt="encrypt message" height="auto" width="500" />
-<img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(326).png" alt="decrypt message" height="auto" width="500" />
+<img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(326).png" alt="encrypt message" height="auto" width="500" />
+<img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(327).png" alt="decrypt message" height="auto" width="500" />
 </p>
 
 ###### En/Decrypt text 'latin-1' messages
 <p align="center">
-<img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(327).png" alt="encrypt message" height="auto" width="500" />
-<img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(328).png" alt="decrypt message" height="auto" width="500" />
+<img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(328).png" alt="encrypt message" height="auto" width="500" />
+<img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(329).png" alt="decrypt message" height="auto" width="500" />
 </p>
 
 ###### Error dialog box / notify any error
 <p align="center">
-<img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(322).png" alt="error dialog box" height="auto" width="500" />
+<img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(323).png" alt="error dialog box" height="auto" width="500" />
 </p>
 
 ## Installation
