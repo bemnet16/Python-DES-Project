@@ -13,7 +13,6 @@ This **DES Algorithm Implementation** is a Python-based cryptographic tool, desi
 
 ## GUI-Preview
 ****
-###### GUI preview
 <p align="center">
 <img src="https://github.com/bemnet16/Python-DES-Project/blob/GUI-Preview/screenshots/Screenshot%20(315).png" alt="Course Page" height="auto" width="500" />
 </p>
