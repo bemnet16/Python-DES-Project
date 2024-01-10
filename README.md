@@ -1,4 +1,4 @@
-# DES Algorithm Implementation in Python
+# DES Algorithm Implementation in Python.
 
 ## Overview
 
